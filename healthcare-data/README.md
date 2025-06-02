@@ -13,13 +13,13 @@ This project focuses on cleaning and visualizing a healthcare dataset to explore
 - `healthcare-stroke-data.csv`: Raw dataset
 - `healthcare-stroke-data-cleaned.csv`: Cleaned dataset
 - `stroke_analysis.ipynb`: Jupyter Notebook with data cleaning, visualization, and feature engineering
-- `numeric_features_distribution.png`: Distribution of numeric features
-- `stroke_by_categorical_features.png`: Stroke prevalence by categorical features
-- `correlation_matrix.png`: Correlation matrix of numeric features
-- `numeric_features_by_stroke.png`: Boxplots of numeric features by stroke
-- `engineered_features_distribution.png`: Distribution of engineered features
-- `stroke_by_engineered_features.png`: Stroke prevalence by engineered features
-- `stroke_proportion_engineered_features.png`: Proportion of stroke cases by engineered features
+- `numeric-features-distribution.png`: Distribution of numeric features
+- `stroke-by-categorical-features.png`: Stroke prevalence by categorical features
+- `correlation-matrix.png`: Correlation matrix of numeric features
+- `numeric-features-by-stroke.png`: Boxplots of numeric features by stroke
+- `engineered-features-distribution.png`: Distribution of engineered features
+- `stroke-by-engineered-features.png`: Stroke prevalence by engineered features
+- `stroke-proportion-engineered-features.png`: Proportion of stroke cases by engineered features
 - `README.md`: Project documentation
 
 ## Methodology
@@ -58,26 +58,25 @@ This project focuses on cleaning and visualizing a healthcare dataset to explore
 
 ## Visualizations
 ### Distribution of Numeric Features
-
-![Numeric Features Distribution](numeric_features_distribution.png)
+![Numeric Features Distribution](numeric-features-distribution.png)
 
 ### Stroke Prevalence by Categorical Features
-![Stroke by Categorical Features](stroke_by_categorical_features.png)
+![Stroke by Categorical Features](stroke-by-categorical-features.png)
 
 ### Correlation Matrix
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](correlation-matrix.png)
 
 ### Numeric Features by Stroke
-![Numeric Features by Stroke](numeric_features_by_stroke.png)
+![Numeric Features by Stroke](numeric-features-by-stroke.png)
 
 ### Distribution of Engineered Features
-![Engineered Features Distribution](engineered_features_distribution.png)
+![Engineered Features Distribution](engineered-features-distribution.png)
 
 ### Stroke Prevalence by Engineered Features
-![Stroke by Engineered Features](stroke_by_engineered_features.png)
+![Stroke by Engineered Features](stroke-by-engineered-features.png)
 
 ### Proportion of Stroke Cases by Engineered Features
-![Stroke Proportion by Engineered Features](stroke_proportion_engineered_features.png)
+![Stroke Proportion by Engineered Features](stroke-proportion-engineered-features.png)
 
 ## Tools Used
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
