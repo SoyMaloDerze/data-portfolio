@@ -4,10 +4,11 @@
 This project focuses on cleaning and visualizing a healthcare dataset to explore stroke risk factors. The dataset includes demographic and health-related features such as age, gender, BMI, glucose levels, and smoking status. The goal is to prepare a clean dataset and derive insights through visualizations, including engineered features, to understand stroke prevalence and risk factors.
 
 ## Dataset
-- **Source**: `healthcare-stroke-data.xlsx`
+- **Source**: `Kaggle - Stroke Dataset`
+- **Filename**: `health-stroke-data.csv`
 - **Features**: `id`, `gender`, `age`, `hypertension`, `heart_disease`, `ever_married`, `work_type`, `Residence_type`, `avg_glucose_level`, `bmi`, `smoking_status`, `stroke`
 - **Target**: `stroke` (binary: 0 = no stroke, 1 = stroke)
-- **Size**: 5109 rows, 12 columns
+- **Size**: 5110 rows, 12 columns
 
 ## Project Structure
 - `healthcare-stroke-data.csv`: Raw dataset
