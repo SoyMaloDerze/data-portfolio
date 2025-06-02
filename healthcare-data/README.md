@@ -10,7 +10,7 @@ This project focuses on cleaning and visualizing a healthcare dataset to explore
 - **Size**: 5109 rows, 12 columns
 
 ## Project Structure
-- `healthcare-stroke-data.xlsx`: Raw dataset
+- `healthcare-stroke-data.csv`: Raw dataset
 - `healthcare-stroke-data-cleaned.csv`: Cleaned dataset
 - `stroke_analysis.ipynb`: Jupyter Notebook with data cleaning, visualization, and feature engineering
 - `numeric_features_distribution.png`: Distribution of numeric features
